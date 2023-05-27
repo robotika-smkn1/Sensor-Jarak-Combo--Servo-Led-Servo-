@@ -37,16 +37,19 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 - Kabel Male & Female
 - Servo Sg/Mg
 - Sensor Ultra Sonic ( Hc-sr04 )
+- Led Green & Red
+- Buzzer
+- Resistor 220 Ohm
 
 
 # :mag: Ilustrasi Arduino
 
 <p align="center">
-  <img src="https://i.postimg.cc/qBXmvgWr/Untitled-1.png" style="height:205px;" "width:205px;"/>
+  <img src="https://i.postimg.cc/QtBtGPds/Watermak.png" style="height:205px;" "width:205px;"/>
 </p>
 
 
-# :clipboard: Source Code Combo By Robotika SMKN 1
+# :clipboard: Source Code By Robotika SMKN 1
 
 ```bash
 /*
