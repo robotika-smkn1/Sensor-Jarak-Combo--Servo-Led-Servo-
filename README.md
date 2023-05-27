@@ -45,7 +45,7 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 # :mag: Ilustrasi Arduino
 
 <p align="center">
-  <img src="https://i.postimg.cc/QtBtGPds/Watermak.png" style="height:205px;" "width:205px;"/>
+  <img src="https://i.postimg.cc/XvjQnRhR/Watermak.png" style="height:205px;" "width:205px;"/>
 </p>
 
 
